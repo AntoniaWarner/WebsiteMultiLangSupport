@@ -1,0 +1,7 @@
+How to use:
+
+    Link the Lang.js file in the head of all html pages
+    Have a page that uses the changeLanguage() method to change the language being used
+    for all text fields that must change a data-key value must be assigned, the text field can be filled in in the html and will show if there is a problem with the json/javascript, this text will not be shown if the system is working correctly.
+    Create a spreadsheet like the example provided and extend or shorten the languages used in the conversion file to match the order and languages used.
+    
